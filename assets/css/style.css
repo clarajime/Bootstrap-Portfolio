@@ -48,6 +48,10 @@ body {
   color: white;
 }
 
+.style:hover {
+    color: #e3e1e7;
+
+}
 footer {
   background-color: rgb(55, 65, 64);
   border-top: 0.1em solid #080909;
