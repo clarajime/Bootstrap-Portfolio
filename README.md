@@ -25,7 +25,10 @@
 
 
 ## Screenshot
-![alt text]()
+# Destok demo:
+![alt text](/assets/images/Screenshot%202023-01-03%20at%2023.34.17.png/)
+# Responsive Demo:
+![alt text](/assets/images/Screenshot%202023-01-03%20at%2023.41.11.png)
 
 
 ## License 
