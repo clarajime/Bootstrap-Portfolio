@@ -22,7 +22,10 @@
 * https://clarajime.github.io/Bootstrap-Portfolio-ClaraJimenez/
 
 ## Screenshoot
-* 
+![alt text](/assets/images/destok1.PNG)
+![alt text](/assets/images/Demo2.PNG)
+![alt text](/assets/images/responsive.PNG)
+![alt text](/assets/images/responsive1.PNG)
 
 ## License 
 MIT License
